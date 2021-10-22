@@ -44,7 +44,6 @@ public class Topic_01 {
 		Assert.assertEquals(loginPageTitle, "Facebook - Đăng nhập hoặc đăng ký");
 	}
 
-	@Test
 	public void TC_03_LoginFormDisplayed() {
 		// Login form displayed
 		Assert.assertTrue(driver.findElement(By.xpath("//form[@data-testid='royal_login_form']")).isDisplayed());
