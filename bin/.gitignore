@@ -1,1 +1,5 @@
 /webdriver/
+/testNG/
+/runtestNG.xml
+/runTestNG.xml
+/run.xml
