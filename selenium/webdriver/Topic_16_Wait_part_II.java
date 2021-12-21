@@ -73,7 +73,7 @@ public class Topic_16_Wait_part_II {
 	//1. co duy nhat 1 element
 		//ko can cho het timout cua implicit
 		//tuong tac len element luon
-	//2. ko co element na het => can test 1 element ko xuat hien tren UI va ko co trong DOM
+	//2. ko co element nao het => can test 1 element ko xuat hien tren UI va ko co trong DOM
 		//cho het timeout cua implicit
 		//trong time ch cu oi nua giay se load lai 1 lan
 		//khi nao cho het timeout cua implicit se danh fail test case va throw exception
